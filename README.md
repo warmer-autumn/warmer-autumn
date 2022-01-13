@@ -2,6 +2,7 @@
 - She/Her, diet admin of http://odot.lgbt
 - My interests include photography, computer stuff, baking, entomology, and videogames.
 - 🌱 I’m currently learning Python, C#, Docker and SQL
+- Also learning how the frick to use GitHub / Git
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me: Don't.
 
