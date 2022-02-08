@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, C#, Docker and SQL
 - Also learning how the frick to use GitHub / Git
 - 💞️ I’m looking to collaborate on whatever.
-- 📫 How to reach me: Don't.
+- 📫 How to reach me: msg me on Discord
 
 
 
